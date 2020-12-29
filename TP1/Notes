@@ -1,0 +1,7 @@
+Autor: ABBASSI Yassir
+
+	The whole assignment is in one script. After running the program, it will asks to provide input in the following order: the dimension of the linear system, the coefficients of the matrix, the coefficients of the vector, and eventually, the method which the system should be solved with. Running the program will make it more clear.
+	
+	Along the script, there is the input text files. The files "input1", "input2" and "input3" corresponds to the inputs of "Gauss Elimination", "LU Decomposition" and "Cholesky Decomposition" respectivly.
+
+PS: This is not the final update of the script, since the Cholesky Method still doesn't work correctly.
